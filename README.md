@@ -15,11 +15,11 @@
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+I empower organizations by transforming complex datasets into actionable insights and robust solutions. My passion lies in developing interactive visualizations, data-driven narratives, and advanced machine learning models that drive informed decision-making and reliable future predictions.
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+Leveraging expertise in Power BI, SQL, Data Modelling and Python, along with Machine Learning techniques, I specialize in engineering intelligent systems to uncover critical patterns and insights. I love the "aha!" moment when data reveals something new and useful.
 
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+When I'm not working with data, I enjoy travelling, hiking and mentoring others. 
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://amitkpandey.netlify.app)
