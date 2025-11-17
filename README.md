@@ -26,14 +26,21 @@ When I'm not working with data, I enjoy travelling, hiking and mentoring others.
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+
+
+- **Personal Assistant:** Building a RAG-based AI assistant using LangChain, Qdrant, and open-source LLM (Llama 3).
+- **Product Case Study:** Designing an AI product case study with PRD, user flows, and evaluation metrics.
+- **Palantir Foundry:** Exploring enterprise-style data ontologies and pipelines inspired by Palantir Foundry concepts.
+- **Cursor AI:** Prototyping small AI tools using Cursor AI IDE to speed up development workflows.
+
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- RAG architectures (embeddings, chunking strategies, vector search tuning).
+- Enterprise AI & data pipelines through ** Palantir ** Foundry Workshops.
+- AI prototyping tools (Cursor AI, HuggingFace Spaces, Streamlit).
+- MLOps fundamentals (MLflow, Docker, model evaluation, monitoring).
+- Product management frameworks for AI features — metrics, roadmapping, experimentation, UX for AI.
 
 ## 🛠️ Technical Skillset
 
