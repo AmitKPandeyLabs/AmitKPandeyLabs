@@ -59,6 +59,7 @@ When I'm not working with data, I enjoy travelling, hiking and mentoring others.
 <p>
   <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
   <img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
+  <img src="https://img.shields.io/badge/PL/SQL-Advanced-E97627?style=flat&logo=tableau&logoColor=white" alt="PL/SQL Skill Badge">
 </p>
 
 #### Business Intelligence & Analytics
