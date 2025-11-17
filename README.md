@@ -30,14 +30,14 @@ When I'm not working with data, I enjoy travelling, hiking and mentoring others.
 
 - **Personal Assistant:** Building a RAG-based AI assistant using LangChain, Qdrant, and open-source LLM (Llama 3).
 - **Product Case Study:** Designing an AI product case study with PRD, user flows, and evaluation metrics.
-- **Palantir Foundry:** Exploring enterprise-style data ontologies and pipelines inspired by Palantir Foundry concepts.
+- **PALANTIR Foundry:** Exploring enterprise-style data ontologies and pipelines inspired by Palantir Foundry concepts.
 - **Cursor AI:** Prototyping small AI tools using Cursor AI IDE to speed up development workflows.
 
 
 ## 🌱 Currently Learning 
 
 - RAG architectures (embeddings, chunking strategies, vector search tuning).
-- Enterprise AI & data pipelines through ** Palantir ** Foundry Workshops.
+- Enterprise AI & data pipelines through Palantir Foundry Workshops.
 - AI prototyping tools (Cursor AI, HuggingFace Spaces, Streamlit).
 - MLOps fundamentals (MLflow, Docker, model evaluation, monitoring).
 - Product management frameworks for AI features - metrics, roadmapping, experimentation, UX for AI.
