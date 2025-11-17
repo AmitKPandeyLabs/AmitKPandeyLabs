@@ -71,11 +71,9 @@ When I'm not working with data, I enjoy travelling, hiking and mentoring others.
 
 #### Artificial Intelligence & Machine Learning
 <p> 
-<img src="https://img.shields.io/badge/LLMs%20(General)-Proficient-4B9CD3?style=flat" alt="LLMs Badge"> 
+<img src="https://img.shields.io/badge/Data%20Preparation%20%26%20EDA-Proficient-00B894?style=flat" alt="EDA Badge"> 
+<img src="https://img.shields.io/badge/Prompt%20Engineering-Proficient-FF6B6B?style=flat" alt="Prompt Engineering Badge">  
+<img src="https://img.shields.io/badge/LLMs%20(General)-Intermediate-4B9CD3?style=flat" alt="LLMs Badge"> 
 <img src="https://img.shields.io/badge/RAG%20Pipelines-Intermediate-7BC86C?style=flat" alt="RAG Badge"> 
 <img src="https://img.shields.io/badge/Embeddings%20%26%20Vector%20Search-Intermediate-FFBD33?style=flat" alt="Embeddings Badge"> 
-<img src="https://img.shields.io/badge/Prompt%20Engineering-Proficient-FF6B6B?style=flat" alt="Prompt Engineering Badge"> 
-<img src="https://img.shields.io/badge/Machine%20Learning%20Models-Intermediate-6C5CE7?style=flat" alt="ML Models Badge"> 
-<img src="https://img.shields.io/badge/Model%20Deployment-Beginner-FDCB6E?style=flat" alt="Model Deployment Badge"> 
-<img src="https://img.shields.io/badge/Data%20Preparation%20%26%20EDA-Proficient-00B894?style=flat" alt="EDA Badge"> 
 </p>
