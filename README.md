@@ -14,7 +14,7 @@
   <a href="mailto:online.amit2023@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
-## 🚀 About Me 
+##  About Me 
 I empower organizations by transforming complex datasets into actionable insights and robust solutions. My passion lies in developing interactive visualizations, data-driven narratives, and advanced machine learning models that drive informed decision-making and reliable future predictions.
 
 Leveraging expertise in Power BI, SQL, Data Modelling and Python, along with Machine Learning techniques, I specialize in engineering intelligent systems to uncover critical patterns and insights. I love the "aha!" moment when data reveals something new and useful.
@@ -24,7 +24,7 @@ When I'm not working with data, I enjoy travelling, hiking and mentoring others.
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://amitkpandey.netlify.app)
       
-## 🔭 What I'm Currently Working On 
+##  What I'm Currently Working On 
 
 
 
@@ -34,7 +34,7 @@ When I'm not working with data, I enjoy travelling, hiking and mentoring others.
 - **Cursor AI:** Prototyping small AI tools using Cursor AI IDE to speed up development workflows.
 
 
-## 🌱 Currently Learning 
+##  Currently Learning 
 
 - RAG architectures (embeddings, chunking strategies, vector search tuning).
 - Enterprise AI & data pipelines through Palantir Foundry Workshops.
@@ -42,7 +42,7 @@ When I'm not working with data, I enjoy travelling, hiking and mentoring others.
 - MLOps fundamentals (MLflow, Docker, model evaluation, monitoring).
 - Product management frameworks for AI features - metrics, roadmapping, experimentation, UX for AI.
 
-## 🛠️ Technical Skillset
+##  Technical Skillset
 
 <!-- This section uses Shields.io badges. You can customize them or create your own!-->
 
