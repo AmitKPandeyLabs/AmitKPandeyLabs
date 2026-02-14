@@ -22,7 +22,7 @@ Leveraging expertise in Power BI, SQL, Data Modelling and Python, along with Mac
 When I'm not working with data, I enjoy travelling, hiking and mentoring others. 
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://amitkpandey.netlify.app)
+### [ Check Out My Full Portfolio Website](https://amitkpandey.netlify.app)
       
 ##  What I'm Currently Working On 
 
