@@ -15,9 +15,9 @@
 </p>
 
 ##  About Me 
-I empower organizations by transforming complex datasets into actionable insights and robust solutions. My passion lies in developing interactive visualizations, data-driven narratives, and advanced machine learning models that drive informed decision-making and reliable future predictions.
+12+ years delivering data and technology programs across industries. This is where I turn ideas into working systems: dashboards, machine learning models, and AI tools that solve real problems. 
 
-Leveraging expertise in Power BI, SQL, Data Modelling and Python, along with Machine Learning techniques, I specialize in engineering intelligent systems to uncover critical patterns and insights. I love the "aha!" moment when data reveals something new and useful.
+I care about building things that actually get used, not just proof of concepts that sit in a notebook. Most projects here started as a question I wanted to answer myself, then grew into something worth sharing.
 
 When I'm not working with data, I enjoy travelling, hiking and mentoring others. 
 
